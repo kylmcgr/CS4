@@ -1,0 +1,154 @@
+2022-02-11T06:46:44+00:00 User-PC#00 I: Runner: processes
+2022-02-11T06:46:44+00:00 User-PC#00 I: Chooser: simple
+2022-02-11T06:46:44+00:00 User-PC#00 I: Configuration suite_name = "all"
+2022-02-11T06:46:44+00:00 User-PC#00 I: Configuration cache_filename = "/mnt/c/Windows/System32/CS4/Lab 4/oUnit-$(suite_name).cache"
+2022-02-11T06:46:44+00:00 User-PC#00 I: Configuration run_gc_full_major = "true"
+2022-02-11T06:46:44+00:00 User-PC#00 I: Configuration display = "true"
+2022-02-11T06:46:44+00:00 User-PC#00 I: Configuration results_style_1_X = "false"
+2022-02-11T06:46:44+00:00 User-PC#00 I: Configuration testdata_dir = "none"
+2022-02-11T06:46:44+00:00 User-PC#00 I: Configuration health_check_interval = "1."
+2022-02-11T06:46:44+00:00 User-PC#00 I: Configuration verbose = "false"
+2022-02-11T06:46:44+00:00 User-PC#00 I: Configuration chooser = "simple"
+2022-02-11T06:46:44+00:00 User-PC#00 I: Configuration output_html_dir = "none"
+2022-02-11T06:46:44+00:00 User-PC#00 I: Configuration processes_kill_period = "5."
+2022-02-11T06:46:44+00:00 User-PC#00 I: Configuration runner = "processes"
+2022-02-11T06:46:44+00:00 User-PC#00 I: Configuration shards = "6"
+2022-02-11T06:46:44+00:00 User-PC#00 I: Configuration processes_grace_period = "5."
+2022-02-11T06:46:44+00:00 User-PC#00 I: Configuration log_encoding = "utf-8"
+2022-02-11T06:46:44+00:00 User-PC#00 I: Configuration output_junit_file = "none"
+2022-02-11T06:46:44+00:00 User-PC#00 I: Configuration ci = "false"
+2022-02-11T06:46:44+00:00 User-PC#00 I: Configuration output_file = "/mnt/c/Windows/System32/CS4/Lab 4/oUnit-$(suite_name)-$(shard_id).log"
+2022-02-11T06:46:44+00:00 User-PC#00 I: Using 6 workers maximum.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Starting worker number User-PC#01.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Worker User-PC#01 started.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Starting worker number User-PC#02.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Worker User-PC#02 started.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Starting worker number User-PC#03.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Worker User-PC#03 started.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Starting worker number User-PC#04.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Worker User-PC#04 started.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Starting worker number User-PC#05.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Worker User-PC#05 started.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Starting worker number User-PC#06.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Worker User-PC#06 started.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 6 tests running: all:5:make_rectangle2, all:4:make_rectangle, all:3:midpoint_segment, all:2:segment_length, all:1:make_segment/get_points, all:0:make_point/get_coords.
+2022-02-11T06:46:44+00:00 User-PC#01 I: Start test all:0:make_point/get_coords.
+2022-02-11T06:46:44+00:00 User-PC#02 I: Start test all:1:make_segment/get_points.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 6 tests running: all:5:make_rectangle2, all:4:make_rectangle, all:3:midpoint_segment, all:2:segment_length, all:1:make_segment/get_points, all:0:make_point/get_coords.
+2022-02-11T06:46:44+00:00 User-PC#01 I: Test all:0:make_point/get_coords is successful.
+2022-02-11T06:46:44+00:00 User-PC#02 I: Test all:1:make_segment/get_points is successful.
+2022-02-11T06:46:44+00:00 User-PC#03 I: Start test all:2:segment_length.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 6 tests running: all:5:make_rectangle2, all:4:make_rectangle, all:3:midpoint_segment, all:2:segment_length, all:1:make_segment/get_points, all:0:make_point/get_coords.
+2022-02-11T06:46:44+00:00 User-PC#01 I: End test all:0:make_point/get_coords.
+2022-02-11T06:46:44+00:00 User-PC#02 I: End test all:1:make_segment/get_points.
+2022-02-11T06:46:44+00:00 User-PC#03 I: Test all:2:segment_length is successful.
+2022-02-11T06:46:44+00:00 User-PC#04 I: Start test all:3:midpoint_segment.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 6 tests running: all:5:make_rectangle2, all:4:make_rectangle, all:3:midpoint_segment, all:2:segment_length, all:1:make_segment/get_points, all:0:make_point/get_coords.
+2022-02-11T06:46:44+00:00 User-PC#03 I: End test all:2:segment_length.
+2022-02-11T06:46:44+00:00 User-PC#05 I: Start test all:4:make_rectangle.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 6 tests running: all:7:unary integers, all:6:integer pairs, all:5:make_rectangle2, all:4:make_rectangle, all:3:midpoint_segment, all:2:segment_length.
+2022-02-11T06:46:44+00:00 User-PC#04 I: Test all:3:midpoint_segment is successful.
+2022-02-11T06:46:44+00:00 User-PC#02 I: Start test all:6:integer pairs.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 6 tests running: all:8:unary integers 2, all:7:unary integers, all:6:integer pairs, all:5:make_rectangle2, all:4:make_rectangle, all:3:midpoint_segment.
+2022-02-11T06:46:44+00:00 User-PC#04 I: End test all:3:midpoint_segment.
+2022-02-11T06:46:44+00:00 User-PC#05 I: Test all:4:make_rectangle is successful.
+2022-02-11T06:46:44+00:00 User-PC#06 I: Start test all:5:make_rectangle2.
+2022-02-11T06:46:44+00:00 User-PC#02 I: Test all:6:integer pairs is successful.
+2022-02-11T06:46:44+00:00 User-PC#01 I: Start test all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#03 I: Start test all:8:unary integers 2.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 6 tests running: all:8:unary integers 2, all:7:unary integers, all:6:integer pairs, all:5:make_rectangle2, all:4:make_rectangle, all:3:midpoint_segment.
+2022-02-11T06:46:44+00:00 User-PC#05 I: End test all:4:make_rectangle.
+2022-02-11T06:46:44+00:00 User-PC#06 I: Test all:5:make_rectangle2 is successful.
+2022-02-11T06:46:44+00:00 User-PC#02 I: End test all:6:integer pairs.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 6 tests running: all:9:is_balanced, total_weight1, total_weight2, all:8:unary integers 2, all:7:unary integers, all:6:integer pairs, all:5:make_rectangle2, all:4:make_rectangle.
+2022-02-11T06:46:44+00:00 User-PC#06 I: End test all:5:make_rectangle2.
+2022-02-11T06:46:44+00:00 User-PC#04 I: Start test all:9:is_balanced, total_weight1, total_weight2.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 6 tests running: all:11:square_tree, square_tree', all:10:is_balanced', total_weight', all:9:is_balanced, total_weight1, total_weight2, all:8:unary integers 2, all:7:unary integers, all:5:make_rectangle2.
+2022-02-11T06:46:44+00:00 User-PC#02 I: Start test all:10:is_balanced', total_weight'.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 6 tests running: all:12:square_tree'', all:11:square_tree, square_tree', all:10:is_balanced', total_weight', all:9:is_balanced, total_weight1, total_weight2, all:8:unary integers 2, all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#04 I: Test all:9:is_balanced, total_weight1, total_weight2 is successful.
+2022-02-11T06:46:44+00:00 User-PC#05 I: Start test all:11:square_tree, square_tree'.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 6 tests running: all:12:square_tree'', all:11:square_tree, square_tree', all:10:is_balanced', total_weight', all:9:is_balanced, total_weight1, total_weight2, all:8:unary integers 2, all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#04 I: End test all:9:is_balanced, total_weight1, total_weight2.
+2022-02-11T06:46:44+00:00 User-PC#02 I: Test all:10:is_balanced', total_weight' is successful.
+2022-02-11T06:46:44+00:00 User-PC#06 I: Start test all:12:square_tree''.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 6 tests running: all:12:square_tree'', all:11:square_tree, square_tree', all:10:is_balanced', total_weight', all:9:is_balanced, total_weight1, total_weight2, all:8:unary integers 2, all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#02 I: End test all:10:is_balanced', total_weight'.
+2022-02-11T06:46:44+00:00 User-PC#05 I: Test all:11:square_tree, square_tree' is successful.
+2022-02-11T06:46:44+00:00 User-PC#06 I: Test all:12:square_tree'' is successful.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 6 tests running: all:13:simplify, all:12:square_tree'', all:11:square_tree, square_tree', all:10:is_balanced', total_weight', all:8:unary integers 2, all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#05 I: End test all:11:square_tree, square_tree'.
+2022-02-11T06:46:44+00:00 User-PC#06 I: End test all:12:square_tree''.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Still 6 tests running : all:14:derivative, all:13:simplify, all:12:square_tree'', all:11:square_tree, square_tree', all:8:unary integers 2, all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 6 tests running: all:14:derivative, all:13:simplify, all:12:square_tree'', all:11:square_tree, square_tree', all:8:unary integers 2, all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#04 I: Start test all:13:simplify.
+2022-02-11T06:46:44+00:00 User-PC#02 I: Start test all:14:derivative.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Still 4 tests running : all:14:derivative, all:13:simplify, all:8:unary integers 2, all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 4 tests running: all:14:derivative, all:13:simplify, all:8:unary integers 2, all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#04 I: Test all:13:simplify is successful.
+2022-02-11T06:46:44+00:00 User-PC#02 I: Test all:14:derivative is successful.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Still 4 tests running : all:14:derivative, all:13:simplify, all:8:unary integers 2, all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 4 tests running: all:14:derivative, all:13:simplify, all:8:unary integers 2, all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#04 I: End test all:13:simplify.
+2022-02-11T06:46:44+00:00 User-PC#02 I: End test all:14:derivative.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Still 4 tests running : all:14:derivative, all:13:simplify, all:8:unary integers 2, all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 4 tests running: all:14:derivative, all:13:simplify, all:8:unary integers 2, all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Still 2 tests running : all:8:unary integers 2, all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 2 tests running: all:8:unary integers 2, all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#01 I: Test all:7:unary integers is successful.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Still 2 tests running : all:8:unary integers 2, all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 2 tests running: all:8:unary integers 2, all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#01 I: End test all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Still 2 tests running : all:8:unary integers 2, all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 2 tests running: all:8:unary integers 2, all:7:unary integers.
+2022-02-11T06:46:44+00:00 User-PC#03 I: Test all:8:unary integers 2 is successful.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Still 1 tests running : all:8:unary integers 2.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 1 tests running: all:8:unary integers 2.
+2022-02-11T06:46:44+00:00 User-PC#03 I: End test all:8:unary integers 2.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Still 1 tests running : all:8:unary integers 2.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 1 tests running: all:8:unary integers 2.
+2022-02-11T06:46:44+00:00 User-PC#00 I: 0 tests running: .
+2022-02-11T06:46:44+00:00 User-PC#00 I: Worker User-PC#05 has ended.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Worker User-PC#06 has ended.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Worker User-PC#04 has ended.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Worker User-PC#02 has ended.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Worker User-PC#01 has ended.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Worker User-PC#03 has ended.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Used 6 worker during test execution.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Run 2 tests with shard User-PC#05.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Run 2 tests with shard User-PC#06.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Run 2 tests with shard User-PC#01.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Run 2 tests with shard User-PC#03.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Run 3 tests with shard User-PC#04.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Run 4 tests with shard User-PC#02.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Check health of shard User-PC#05, 9 times.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Check health of shard User-PC#06, 9 times.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Check health of shard User-PC#01, 3 times.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Check health of shard User-PC#04, 6 times.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Check health of shard User-PC#03, 1 times.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Check health of shard User-PC#02, 6 times.
+2022-02-11T06:46:44+00:00 User-PC#00 I: ==============
+2022-02-11T06:46:44+00:00 User-PC#00 I: Summary:
+2022-02-11T06:46:44+00:00 User-PC#00 I: Test all:8:unary integers 2 is successful.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Test all:7:unary integers is successful.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Test all:14:derivative is successful.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Test all:13:simplify is successful.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Test all:12:square_tree'' is successful.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Test all:11:square_tree, square_tree' is successful.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Test all:10:is_balanced', total_weight' is successful.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Test all:9:is_balanced, total_weight1, total_weight2 is successful.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Test all:5:make_rectangle2 is successful.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Test all:6:integer pairs is successful.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Test all:4:make_rectangle is successful.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Test all:3:midpoint_segment is successful.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Test all:2:segment_length is successful.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Test all:1:make_segment/get_points is successful.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Test all:0:make_point/get_coords is successful.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Ran: 15 tests in: 0.14 seconds.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Cases: 15.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Tried: 15.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Errors: 0.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Failures: 0.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Skip: 0.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Todo: 0.
+2022-02-11T06:46:44+00:00 User-PC#00 I: Timeout: 0.

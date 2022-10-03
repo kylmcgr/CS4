@@ -1,0 +1,140 @@
+2022-02-03T08:35:12+00:00 User-PC#00 I: Runner: processes
+2022-02-03T08:35:12+00:00 User-PC#00 I: Chooser: simple
+2022-02-03T08:35:12+00:00 User-PC#00 I: Configuration suite_name = "all"
+2022-02-03T08:35:12+00:00 User-PC#00 I: Configuration cache_filename = "/mnt/c/WINDOWS/system32/CS4/Lab 3/oUnit-$(suite_name).cache"
+2022-02-03T08:35:12+00:00 User-PC#00 I: Configuration run_gc_full_major = "true"
+2022-02-03T08:35:12+00:00 User-PC#00 I: Configuration display = "true"
+2022-02-03T08:35:12+00:00 User-PC#00 I: Configuration results_style_1_X = "false"
+2022-02-03T08:35:12+00:00 User-PC#00 I: Configuration testdata_dir = "none"
+2022-02-03T08:35:12+00:00 User-PC#00 I: Configuration health_check_interval = "1."
+2022-02-03T08:35:12+00:00 User-PC#00 I: Configuration verbose = "false"
+2022-02-03T08:35:12+00:00 User-PC#00 I: Configuration chooser = "simple"
+2022-02-03T08:35:12+00:00 User-PC#00 I: Configuration output_html_dir = "none"
+2022-02-03T08:35:12+00:00 User-PC#00 I: Configuration processes_kill_period = "5."
+2022-02-03T08:35:12+00:00 User-PC#00 I: Configuration runner = "processes"
+2022-02-03T08:35:12+00:00 User-PC#00 I: Configuration shards = "6"
+2022-02-03T08:35:12+00:00 User-PC#00 I: Configuration processes_grace_period = "5."
+2022-02-03T08:35:12+00:00 User-PC#00 I: Configuration log_encoding = "utf-8"
+2022-02-03T08:35:12+00:00 User-PC#00 I: Configuration output_junit_file = "none"
+2022-02-03T08:35:12+00:00 User-PC#00 I: Configuration ci = "false"
+2022-02-03T08:35:12+00:00 User-PC#00 I: Configuration output_file = "/mnt/c/WINDOWS/system32/CS4/Lab 3/oUnit-$(suite_name)-$(shard_id).log"
+2022-02-03T08:35:12+00:00 User-PC#00 I: Using 6 workers maximum.
+2022-02-03T08:35:12+00:00 User-PC#00 I: Starting worker number User-PC#01.
+2022-02-03T08:35:12+00:00 User-PC#00 I: Worker User-PC#01 started.
+2022-02-03T08:35:12+00:00 User-PC#00 I: Starting worker number User-PC#02.
+2022-02-03T08:35:12+00:00 User-PC#00 I: Worker User-PC#02 started.
+2022-02-03T08:35:12+00:00 User-PC#00 I: Starting worker number User-PC#03.
+2022-02-03T08:35:12+00:00 User-PC#00 I: Worker User-PC#03 started.
+2022-02-03T08:35:12+00:00 User-PC#00 I: Starting worker number User-PC#04.
+2022-02-03T08:35:12+00:00 User-PC#00 I: Worker User-PC#04 started.
+2022-02-03T08:35:12+00:00 User-PC#00 I: Starting worker number User-PC#05.
+2022-02-03T08:35:12+00:00 User-PC#00 I: Worker User-PC#05 started.
+2022-02-03T08:35:12+00:00 User-PC#00 I: Starting worker number User-PC#06.
+2022-02-03T08:35:12+00:00 User-PC#00 I: Worker User-PC#06 started.
+2022-02-03T08:35:12+00:00 User-PC#00 I: 6 tests running: all:5:power_of_two_list, all:4:count_negative_numbers, all:3:square_list2, all:2:square_list, all:1:reverse, all:0:last_sublist.
+2022-02-03T08:35:12+00:00 User-PC#01 I: Start test all:0:last_sublist.
+2022-02-03T08:35:12+00:00 User-PC#02 I: Start test all:1:reverse.
+2022-02-03T08:35:12+00:00 User-PC#03 I: Start test all:2:square_list.
+2022-02-03T08:35:12+00:00 User-PC#04 I: Start test all:3:square_list2.
+2022-02-03T08:35:12+00:00 User-PC#00 I: 6 tests running: all:5:power_of_two_list, all:4:count_negative_numbers, all:3:square_list2, all:2:square_list, all:1:reverse, all:0:last_sublist.
+2022-02-03T08:35:12+00:00 User-PC#01 I: Test all:0:last_sublist is successful.
+2022-02-03T08:35:12+00:00 User-PC#02 I: Test all:1:reverse is successful.
+2022-02-03T08:35:12+00:00 User-PC#03 I: Test all:2:square_list is successful.
+2022-02-03T08:35:12+00:00 User-PC#04 I: Test all:3:square_list2 is successful.
+2022-02-03T08:35:12+00:00 User-PC#00 I: 6 tests running: all:5:power_of_two_list, all:4:count_negative_numbers, all:3:square_list2, all:2:square_list, all:1:reverse, all:0:last_sublist.
+2022-02-03T08:35:12+00:00 User-PC#01 I: End test all:0:last_sublist.
+2022-02-03T08:35:12+00:00 User-PC#02 I: End test all:1:reverse.
+2022-02-03T08:35:12+00:00 User-PC#03 I: End test all:2:square_list.
+2022-02-03T08:35:12+00:00 User-PC#04 I: End test all:3:square_list2.
+2022-02-03T08:35:12+00:00 User-PC#05 I: Start test all:4:count_negative_numbers.
+2022-02-03T08:35:12+00:00 User-PC#00 I: 6 tests running: all:5:power_of_two_list, all:4:count_negative_numbers, all:3:square_list2, all:2:square_list, all:1:reverse, all:0:last_sublist.
+2022-02-03T08:35:12+00:00 User-PC#05 I: Test all:4:count_negative_numbers is successful.
+2022-02-03T08:35:12+00:00 User-PC#00 I: 6 tests running: all:9:quicksort, all:8:deep_reverse_nested, all:7:deep_reverse, all:6:prefix_sum, all:5:power_of_two_list, all:4:count_negative_numbers.
+2022-02-03T08:35:12+00:00 User-PC#05 I: End test all:4:count_negative_numbers.
+2022-02-03T08:35:12+00:00 User-PC#04 I: Start test all:6:prefix_sum.
+2022-02-03T08:35:12+00:00 User-PC#00 I: 6 tests running: all:9:quicksort, all:8:deep_reverse_nested, all:7:deep_reverse, all:6:prefix_sum, all:5:power_of_two_list, all:4:count_negative_numbers.
+2022-02-03T08:35:12+00:00 User-PC#04 I: Test all:6:prefix_sum is successful.
+2022-02-03T08:35:12+00:00 User-PC#03 I: Start test all:7:deep_reverse.
+2022-02-03T08:35:12+00:00 User-PC#02 I: Start test all:8:deep_reverse_nested.
+2022-02-03T08:35:12+00:00 User-PC#01 I: Start test all:9:quicksort.
+2022-02-03T08:35:12+00:00 User-PC#00 I: 6 tests running: all:10:insertion_sort, all:9:quicksort, all:8:deep_reverse_nested, all:7:deep_reverse, all:6:prefix_sum, all:5:power_of_two_list.
+2022-02-03T08:35:12+00:00 User-PC#06 I: Start test all:5:power_of_two_list.
+2022-02-03T08:35:12+00:00 User-PC#04 I: End test all:6:prefix_sum.
+2022-02-03T08:35:12+00:00 User-PC#03 I: Test all:7:deep_reverse is successful.
+2022-02-03T08:35:12+00:00 User-PC#02 I: Test all:8:deep_reverse_nested is successful.
+2022-02-03T08:35:12+00:00 User-PC#01 I: Test all:9:quicksort is successful.
+2022-02-03T08:35:12+00:00 User-PC#00 I: 6 tests running: all:10:insertion_sort, all:9:quicksort, all:8:deep_reverse_nested, all:7:deep_reverse, all:6:prefix_sum, all:5:power_of_two_list.
+2022-02-03T08:35:12+00:00 User-PC#06 I: Test all:5:power_of_two_list is successful.
+2022-02-03T08:35:12+00:00 User-PC#03 I: End test all:7:deep_reverse.
+2022-02-03T08:35:12+00:00 User-PC#02 I: End test all:8:deep_reverse_nested.
+2022-02-03T08:35:12+00:00 User-PC#01 I: End test all:9:quicksort.
+2022-02-03T08:35:12+00:00 User-PC#05 I: Start test all:10:insertion_sort.
+2022-02-03T08:35:12+00:00 User-PC#00 I: 6 tests running: all:11:subsets, all:10:insertion_sort, all:9:quicksort, all:8:deep_reverse_nested, all:7:deep_reverse, all:5:power_of_two_list.
+2022-02-03T08:35:12+00:00 User-PC#06 I: End test all:5:power_of_two_list.
+2022-02-03T08:35:12+00:00 User-PC#05 I: Test all:10:insertion_sort is successful.
+2022-02-03T08:35:12+00:00 User-PC#04 I: Start test all:11:subsets.
+2022-02-03T08:35:12+00:00 User-PC#00 I: Still 6 tests running : all:14:dot_product, matrix_times_vector, matrix_times_matrix, all:13:accumulate_n, all:12:map, append, length, all:11:subsets, all:10:insertion_sort, all:5:power_of_two_list.
+2022-02-03T08:35:12+00:00 User-PC#00 I: 6 tests running: all:14:dot_product, matrix_times_vector, matrix_times_matrix, all:13:accumulate_n, all:12:map, append, length, all:11:subsets, all:10:insertion_sort, all:5:power_of_two_list.
+2022-02-03T08:35:12+00:00 User-PC#05 I: End test all:10:insertion_sort.
+2022-02-03T08:35:12+00:00 User-PC#04 I: Test all:11:subsets is successful.
+2022-02-03T08:35:12+00:00 User-PC#01 I: Start test all:12:map, append, length.
+2022-02-03T08:35:12+00:00 User-PC#02 I: Start test all:13:accumulate_n.
+2022-02-03T08:35:12+00:00 User-PC#03 I: Start test all:14:dot_product, matrix_times_vector, matrix_times_matrix.
+2022-02-03T08:35:12+00:00 User-PC#00 I: Still 5 tests running : all:14:dot_product, matrix_times_vector, matrix_times_matrix, all:13:accumulate_n, all:12:map, append, length, all:11:subsets, all:10:insertion_sort.
+2022-02-03T08:35:12+00:00 User-PC#00 I: 5 tests running: all:14:dot_product, matrix_times_vector, matrix_times_matrix, all:13:accumulate_n, all:12:map, append, length, all:11:subsets, all:10:insertion_sort.
+2022-02-03T08:35:12+00:00 User-PC#04 I: End test all:11:subsets.
+2022-02-03T08:35:12+00:00 User-PC#01 I: Test all:12:map, append, length is successful.
+2022-02-03T08:35:12+00:00 User-PC#02 I: Test all:13:accumulate_n is successful.
+2022-02-03T08:35:12+00:00 User-PC#03 I: Test all:14:dot_product, matrix_times_vector, matrix_times_matrix is successful.
+2022-02-03T08:35:12+00:00 User-PC#00 I: Still 4 tests running : all:14:dot_product, matrix_times_vector, matrix_times_matrix, all:13:accumulate_n, all:12:map, append, length, all:11:subsets.
+2022-02-03T08:35:12+00:00 User-PC#00 I: 4 tests running: all:14:dot_product, matrix_times_vector, matrix_times_matrix, all:13:accumulate_n, all:12:map, append, length, all:11:subsets.
+2022-02-03T08:35:12+00:00 User-PC#01 I: End test all:12:map, append, length.
+2022-02-03T08:35:12+00:00 User-PC#02 I: End test all:13:accumulate_n.
+2022-02-03T08:35:12+00:00 User-PC#03 I: End test all:14:dot_product, matrix_times_vector, matrix_times_matrix.
+2022-02-03T08:35:12+00:00 User-PC#00 I: Still 3 tests running : all:14:dot_product, matrix_times_vector, matrix_times_matrix, all:13:accumulate_n, all:12:map, append, length.
+2022-02-03T08:35:12+00:00 User-PC#00 I: 3 tests running: all:14:dot_product, matrix_times_vector, matrix_times_matrix, all:13:accumulate_n, all:12:map, append, length.
+2022-02-03T08:35:12+00:00 User-PC#00 I: 0 tests running: .
+2022-02-03T08:35:12+00:00 User-PC#00 I: Worker User-PC#06 has ended.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Worker User-PC#05 has ended.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Worker User-PC#04 has ended.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Worker User-PC#01 has ended.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Worker User-PC#02 has ended.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Worker User-PC#03 has ended.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Used 6 worker during test execution.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Run 2 tests with shard User-PC#05.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Run 1 tests with shard User-PC#06.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Run 3 tests with shard User-PC#01.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Run 3 tests with shard User-PC#03.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Run 3 tests with shard User-PC#04.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Run 3 tests with shard User-PC#02.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Check health of shard User-PC#05, 3 times.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Check health of shard User-PC#06, 4 times.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Check health of shard User-PC#01, 1 times.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Check health of shard User-PC#04, 2 times.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Check health of shard User-PC#03, 1 times.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Check health of shard User-PC#02, 1 times.
+2022-02-03T08:35:13+00:00 User-PC#00 I: ==============
+2022-02-03T08:35:13+00:00 User-PC#00 I: Summary:
+2022-02-03T08:35:13+00:00 User-PC#00 I: Test all:14:dot_product, matrix_times_vector, matrix_times_matrix is successful.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Test all:13:accumulate_n is successful.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Test all:12:map, append, length is successful.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Test all:11:subsets is successful.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Test all:10:insertion_sort is successful.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Test all:5:power_of_two_list is successful.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Test all:9:quicksort is successful.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Test all:8:deep_reverse_nested is successful.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Test all:7:deep_reverse is successful.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Test all:6:prefix_sum is successful.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Test all:4:count_negative_numbers is successful.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Test all:3:square_list2 is successful.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Test all:2:square_list is successful.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Test all:1:reverse is successful.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Test all:0:last_sublist is successful.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Ran: 15 tests in: 0.15 seconds.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Cases: 15.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Tried: 15.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Errors: 0.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Failures: 0.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Skip: 0.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Todo: 0.
+2022-02-03T08:35:13+00:00 User-PC#00 I: Timeout: 0.

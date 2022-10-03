@@ -1,0 +1,9 @@
+2022-02-03T08:35:12+00:00 User-PC#01 I: Start test all:0:last_sublist.
+2022-02-03T08:35:12+00:00 User-PC#01 I: Test all:0:last_sublist is successful.
+2022-02-03T08:35:12+00:00 User-PC#01 I: End test all:0:last_sublist.
+2022-02-03T08:35:12+00:00 User-PC#01 I: Start test all:9:quicksort.
+2022-02-03T08:35:12+00:00 User-PC#01 I: Test all:9:quicksort is successful.
+2022-02-03T08:35:12+00:00 User-PC#01 I: End test all:9:quicksort.
+2022-02-03T08:35:12+00:00 User-PC#01 I: Start test all:12:map, append, length.
+2022-02-03T08:35:12+00:00 User-PC#01 I: Test all:12:map, append, length is successful.
+2022-02-03T08:35:12+00:00 User-PC#01 I: End test all:12:map, append, length.

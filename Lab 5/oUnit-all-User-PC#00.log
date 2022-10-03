@@ -1,0 +1,76 @@
+2022-02-25T05:54:33+00:00 User-PC#00 I: Runner: processes
+2022-02-25T05:54:33+00:00 User-PC#00 I: Chooser: simple
+2022-02-25T05:54:33+00:00 User-PC#00 I: Configuration suite_name = "all"
+2022-02-25T05:54:33+00:00 User-PC#00 I: Configuration cache_filename = "/mnt/c/Windows/System32/CS4/Lab 5/oUnit-$(suite_name).cache"
+2022-02-25T05:54:33+00:00 User-PC#00 I: Configuration run_gc_full_major = "true"
+2022-02-25T05:54:33+00:00 User-PC#00 I: Configuration display = "true"
+2022-02-25T05:54:33+00:00 User-PC#00 I: Configuration results_style_1_X = "false"
+2022-02-25T05:54:33+00:00 User-PC#00 I: Configuration testdata_dir = "none"
+2022-02-25T05:54:33+00:00 User-PC#00 I: Configuration health_check_interval = "1."
+2022-02-25T05:54:33+00:00 User-PC#00 I: Configuration verbose = "false"
+2022-02-25T05:54:33+00:00 User-PC#00 I: Configuration chooser = "simple"
+2022-02-25T05:54:33+00:00 User-PC#00 I: Configuration output_html_dir = "none"
+2022-02-25T05:54:33+00:00 User-PC#00 I: Configuration processes_kill_period = "5."
+2022-02-25T05:54:33+00:00 User-PC#00 I: Configuration runner = "processes"
+2022-02-25T05:54:33+00:00 User-PC#00 I: Configuration shards = "6"
+2022-02-25T05:54:33+00:00 User-PC#00 I: Configuration processes_grace_period = "5."
+2022-02-25T05:54:33+00:00 User-PC#00 I: Configuration log_encoding = "utf-8"
+2022-02-25T05:54:33+00:00 User-PC#00 I: Configuration output_junit_file = "none"
+2022-02-25T05:54:33+00:00 User-PC#00 I: Configuration ci = "false"
+2022-02-25T05:54:33+00:00 User-PC#00 I: Configuration output_file = "/mnt/c/Windows/System32/CS4/Lab 5/oUnit-$(suite_name)-$(shard_id).log"
+2022-02-25T05:54:33+00:00 User-PC#00 I: Using 6 workers maximum.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Starting worker number User-PC#01.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Worker User-PC#01 started.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Starting worker number User-PC#02.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Worker User-PC#02 started.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Starting worker number User-PC#03.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Worker User-PC#03 started.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Still 3 tests running : all:2:Problem B.1, all:1:Problem A.2, all:0:Problem A.1.
+2022-02-25T05:54:33+00:00 User-PC#00 I: 3 tests running: all:2:Problem B.1, all:1:Problem A.2, all:0:Problem A.1.
+2022-02-25T05:54:33+00:00 User-PC#01 I: Start test all:0:Problem A.1.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Still 3 tests running : all:2:Problem B.1, all:1:Problem A.2, all:0:Problem A.1.
+2022-02-25T05:54:33+00:00 User-PC#00 I: 3 tests running: all:2:Problem B.1, all:1:Problem A.2, all:0:Problem A.1.
+2022-02-25T05:54:33+00:00 User-PC#01 I: Test all:0:Problem A.1 is successful.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Still 3 tests running : all:2:Problem B.1, all:1:Problem A.2, all:0:Problem A.1.
+2022-02-25T05:54:33+00:00 User-PC#00 I: 3 tests running: all:2:Problem B.1, all:1:Problem A.2, all:0:Problem A.1.
+2022-02-25T05:54:33+00:00 User-PC#01 I: End test all:0:Problem A.1.
+2022-02-25T05:54:33+00:00 User-PC#02 I: Start test all:1:Problem A.2.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Still 3 tests running : all:2:Problem B.1, all:1:Problem A.2, all:0:Problem A.1.
+2022-02-25T05:54:33+00:00 User-PC#00 I: 3 tests running: all:2:Problem B.1, all:1:Problem A.2, all:0:Problem A.1.
+2022-02-25T05:54:33+00:00 User-PC#02 I: Test all:1:Problem A.2 is successful.
+2022-02-25T05:54:33+00:00 User-PC#03 I: Start test all:2:Problem B.1.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Still 2 tests running : all:2:Problem B.1, all:1:Problem A.2.
+2022-02-25T05:54:33+00:00 User-PC#00 I: 2 tests running: all:2:Problem B.1, all:1:Problem A.2.
+2022-02-25T05:54:33+00:00 User-PC#02 I: End test all:1:Problem A.2.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Still 2 tests running : all:2:Problem B.1, all:1:Problem A.2.
+2022-02-25T05:54:33+00:00 User-PC#00 I: 2 tests running: all:2:Problem B.1, all:1:Problem A.2.
+2022-02-25T05:54:33+00:00 User-PC#03 I: Test all:2:Problem B.1 is successful.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Still 1 tests running : all:2:Problem B.1.
+2022-02-25T05:54:33+00:00 User-PC#00 I: 1 tests running: all:2:Problem B.1.
+2022-02-25T05:54:33+00:00 User-PC#03 I: End test all:2:Problem B.1.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Still 1 tests running : all:2:Problem B.1.
+2022-02-25T05:54:33+00:00 User-PC#00 I: 1 tests running: all:2:Problem B.1.
+2022-02-25T05:54:33+00:00 User-PC#00 I: 0 tests running: .
+2022-02-25T05:54:33+00:00 User-PC#00 I: Worker User-PC#01 has ended.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Worker User-PC#02 has ended.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Worker User-PC#03 has ended.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Used 3 worker during test execution.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Run 1 tests with shard User-PC#01.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Run 1 tests with shard User-PC#03.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Run 1 tests with shard User-PC#02.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Check health of shard User-PC#01, 5 times.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Check health of shard User-PC#03, 1 times.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Check health of shard User-PC#02, 3 times.
+2022-02-25T05:54:33+00:00 User-PC#00 I: ==============
+2022-02-25T05:54:33+00:00 User-PC#00 I: Summary:
+2022-02-25T05:54:33+00:00 User-PC#00 I: Test all:2:Problem B.1 is successful.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Test all:1:Problem A.2 is successful.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Test all:0:Problem A.1 is successful.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Ran: 3 tests in: 0.12 seconds.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Cases: 3.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Tried: 3.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Errors: 0.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Failures: 0.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Skip: 0.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Todo: 0.
+2022-02-25T05:54:33+00:00 User-PC#00 I: Timeout: 0.

@@ -1,0 +1,9 @@
+2022-02-11T06:46:44+00:00 User-PC#04 I: Start test all:3:midpoint_segment.
+2022-02-11T06:46:44+00:00 User-PC#04 I: Test all:3:midpoint_segment is successful.
+2022-02-11T06:46:44+00:00 User-PC#04 I: End test all:3:midpoint_segment.
+2022-02-11T06:46:44+00:00 User-PC#04 I: Start test all:9:is_balanced, total_weight1, total_weight2.
+2022-02-11T06:46:44+00:00 User-PC#04 I: Test all:9:is_balanced, total_weight1, total_weight2 is successful.
+2022-02-11T06:46:44+00:00 User-PC#04 I: End test all:9:is_balanced, total_weight1, total_weight2.
+2022-02-11T06:46:44+00:00 User-PC#04 I: Start test all:13:simplify.
+2022-02-11T06:46:44+00:00 User-PC#04 I: Test all:13:simplify is successful.
+2022-02-11T06:46:44+00:00 User-PC#04 I: End test all:13:simplify.

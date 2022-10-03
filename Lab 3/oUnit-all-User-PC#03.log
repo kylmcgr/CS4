@@ -1,0 +1,9 @@
+2022-02-03T08:35:12+00:00 User-PC#03 I: Start test all:2:square_list.
+2022-02-03T08:35:12+00:00 User-PC#03 I: Test all:2:square_list is successful.
+2022-02-03T08:35:12+00:00 User-PC#03 I: End test all:2:square_list.
+2022-02-03T08:35:12+00:00 User-PC#03 I: Start test all:7:deep_reverse.
+2022-02-03T08:35:12+00:00 User-PC#03 I: Test all:7:deep_reverse is successful.
+2022-02-03T08:35:12+00:00 User-PC#03 I: End test all:7:deep_reverse.
+2022-02-03T08:35:12+00:00 User-PC#03 I: Start test all:14:dot_product, matrix_times_vector, matrix_times_matrix.
+2022-02-03T08:35:12+00:00 User-PC#03 I: Test all:14:dot_product, matrix_times_vector, matrix_times_matrix is successful.
+2022-02-03T08:35:12+00:00 User-PC#03 I: End test all:14:dot_product, matrix_times_vector, matrix_times_matrix.

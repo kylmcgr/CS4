@@ -1,0 +1,9 @@
+2022-02-09T21:51:19+00:00 User-PC#03 I: Start test all:2:fast_mult.
+2022-02-09T21:51:19+00:00 User-PC#03 I: Test all:2:fast_mult is successful.
+2022-02-09T21:51:19+00:00 User-PC#03 I: End test all:2:fast_mult.
+2022-02-09T21:51:19+00:00 User-PC#03 I: Start test all:7:product_iter.
+2022-02-09T21:51:19+00:00 User-PC#03 I: Test all:7:product_iter is successful.
+2022-02-09T21:51:19+00:00 User-PC#03 I: End test all:7:product_iter.
+2022-02-09T21:51:19+00:00 User-PC#03 I: Start test all:15:smallest_prime_factor.
+2022-02-09T21:51:19+00:00 User-PC#03 I: Test all:15:smallest_prime_factor is successful.
+2022-02-09T21:51:19+00:00 User-PC#03 I: End test all:15:smallest_prime_factor.

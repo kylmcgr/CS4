@@ -1,0 +1,9 @@
+2022-02-09T21:51:19+00:00 User-PC#02 I: Start test all:1:ifast_expt.
+2022-02-09T21:51:19+00:00 User-PC#02 I: Test all:1:ifast_expt is successful.
+2022-02-09T21:51:19+00:00 User-PC#02 I: End test all:1:ifast_expt.
+2022-02-09T21:51:19+00:00 User-PC#02 I: Start test all:8:factorial_iter.
+2022-02-09T21:51:19+00:00 User-PC#02 I: Test all:8:factorial_iter is successful.
+2022-02-09T21:51:19+00:00 User-PC#02 I: End test all:8:factorial_iter.
+2022-02-09T21:51:19+00:00 User-PC#02 I: Start test all:14:is_prime.
+2022-02-09T21:51:19+00:00 User-PC#02 I: Test all:14:is_prime is successful.
+2022-02-09T21:51:19+00:00 User-PC#02 I: End test all:14:is_prime.
